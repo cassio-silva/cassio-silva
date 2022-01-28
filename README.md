@@ -1,6 +1,6 @@
 # Cássio Silva
 [
- Cássio Silva <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14" height="14"/>
+ Cássio Silva <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="14" height="14"/>
 ](https://www.linkedin.com/in/cassio-silva-7052a0125/) | 
 [
  @kaz_silva <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="14" height="14"/>
