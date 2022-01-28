@@ -1,16 +1,13 @@
-### Hi there 👋
+# Cássio Silva
+[
+ Cássio Silva <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14" height="14"/>
+](https://www.linkedin.com/in/cassio-silva-7052a0125/) | 
+[
+ @kaz_silva <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="14" height="14"/>
+](https://twitter.com/kaz_silva) | [Perfil da @Rocketseat](https://app.rocketseat.com.br/me/cassio-silva-09796)
 
-<!--
-**cassio-silva/cassio-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web *React* apaixonado pela criação pensando sempre nos detalhes intrínsecos de cada elemento ou componente sendo desenvolvido.
 
-Here are some ideas to get you started:
+Sempre fui apaixonado por desmontar e entender como as coisas funcionam e com código não é diferente, desmontar, alterar e criar algo novo a partir de um elemento já existente, fazendo uma "alquimia em código", sempre foram partes chave do meu processo de aprendizado durante toda minha vida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando a trilha de React do ***Ignite***, bootcamp da [@Rocketseat](https://www.rocketseat.com.br/), procurando me aprofundar cada vez mais na tecnologia. Tenho conhecimento e experiência com Javascript, Typescript e Node.js (Desenvolvendo projetos pessoais) e em diversas bibliotecas e frameworks CSS como, Sass, Styled-Components, Chakra-ui e Tailwind.
