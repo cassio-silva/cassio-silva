@@ -1,6 +1,6 @@
 # Cássio Silva
 [<img src="https://img.shields.io/badge/-Cassio Silva-454545?style=flat-square&logoColor=0077b5&logo=linkedin"/>](https://www.linkedin.com/in/cassio-silva-7052a0125/)
-[<img src="https://img.shields.io/badge/-@kaz_silva-454545?style=flat-square&logo=twitter"/>](https://twitter.com/kaz_silva)
+<!-- [<img src="https://img.shields.io/badge/-@kaz_silva-454545?style=flat-square&logo=twitter"/>](https://twitter.com/kaz_silva) -->
 
 Desenvolvedor web *React* apaixonado pela criação pensando sempre nos detalhes intrínsecos de cada elemento ou componente sendo desenvolvido.
 
