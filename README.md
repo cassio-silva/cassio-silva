@@ -14,3 +14,8 @@ Atualmente cursando a trilha de React do ***Ignite***, bootcamp da [@Rocketseat]
 Tenho conhecimento e experiência com Javascript, Typescript e Node.js (Desenvolvendo projetos pessoais) e em diversas bibliotecas e frameworks CSS como, [Sass](https://sass-lang.com/), [Styled-Components](https://styled-components.com/), [Chakra-ui](https://chakra-ui.com/) e [Tailwind](https://tailwindcss.com/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Websites I worked on
+- <a href="https://promo.shell.com.br/" target="_blank">Hub de promoções da Shell</a>
+- <a href="https://promo.shell.com.br/promocao-junte-e-troque-2021" target="_blank">Shell - Promoção Junte e Troque</a>
+- <a href="https://promo.shell.com.br/boleia-turbinada" target="_blank">Shell - Promoção boleia turbinada</a>
