@@ -17,6 +17,4 @@ Tenho conhecimento e experiência com Javascript, Typescript e Node.js (Desenvol
 
 # Websites I worked on
 - <a href="https://promo.shell.com.br/" target="_blank">Hub de promoções da Shell</a>
-- <a href="https://promo.shell.com.br/promocao-junte-e-troque-2021" target="_blank">Shell - Promoção Junte e Troque</a>
-- <a href="https://promo.shell.com.br/boleia-turbinada" target="_blank">Shell - Promoção boleia turbinada</a>
 - <a href="https://poketools.vercel.app/" target="_blank">PokéTools</a>
