@@ -15,6 +15,6 @@ Tenho conhecimento e experiência com Javascript, Typescript e Node.js (Desenvol
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Websites I worked on
+# Projects I worked on (in production)
 - <a href="https://promo.shell.com.br/" target="_blank">Hub de promoções da Shell</a>
 - <a href="https://poketools.vercel.app/" target="_blank">PokéTools</a>
