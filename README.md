@@ -15,6 +15,7 @@ Tenho conhecimento e experiência com Javascript, Typescript e [Node.js](https:/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projects I worked on (in production)
-- <a href="https://promo.shell.com.br/" target="_blank">Hub de promoções da Shell</a>
-- <a href="https://poketools.vercel.app/" target="_blank">PokéTools</a>
+# Projetos em que trabalhei
+- [Hub de promoções da Shell](https://promo.shell.com.br/)
+- [PokéTools](https://poketools.vercel.app/)
+- [Coffee Shop Challenge @Rocketseat](https://kazdev-coffeeshop.netlify.app/)
