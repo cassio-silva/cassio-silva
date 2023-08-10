@@ -12,7 +12,7 @@ Atualmente cursando a trilha de React do ***Ignite***, bootcamp da [@Rocketseat]
 ## Tecnologias
 <img src="https://img.shields.io/badge/-React.js-454545?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/-typescript-454545?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/-javascript-454545?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/-CSS-454545?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-HTML-454545?style=flat-square&logo=html5"/> <img src="https://img.shields.io/badge/-Node.js-454545?style=flat-square&logo=node.js"/>
 
-Tenho conhecimento e experiência com Javascript, Typescript e [Node.js](https://nodejs.org/en) (Desenvolvendo projetos pessoais) e em diversas bibliotecas e frameworks CSS como, [Sass](https://sass-lang.com/), [Styled-Components](https://styled-components.com/), [Chakra-ui](https://chakra-ui.com/) e [Tailwind](https://tailwindcss.com/).
+Tenho conhecimento e experiência com React, Next, Javascript / Typescript e [Node.js](https://nodejs.org/en) (Desenvolvendo projetos pessoais) e em diversas bibliotecas e frameworks CSS como, [Sass](https://sass-lang.com/), [Styled-Components](https://styled-components.com/), [Chakra-ui](https://chakra-ui.com/) e [Tailwind](https://tailwindcss.com/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
