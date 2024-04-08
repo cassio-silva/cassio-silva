@@ -2,10 +2,6 @@
 [<img src="https://img.shields.io/badge/-Cassio Silva-454545?style=flat-square&logoColor=0077b5&logo=linkedin"/>](https://www.linkedin.com/in/cassio-silva-7052a0125/)
 <!-- [<img src="https://img.shields.io/badge/-@kaz_silva-454545?style=flat-square&logo=twitter"/>](https://twitter.com/kaz_silva) -->
 
-Desenvolvedor web *React* apaixonado pela criação pensando sempre nos detalhes de cada elemento e componente sendo desenvolvido.
-
-Sempre fui apaixonado por desmontar e entender como as coisas funcionam e com código não é diferente, criar algo novo a partir de um elemento já existente, fazendo uma "alquimia em código", sempre foram partes chave do meu processo de aprendizado durante toda minha vida.
-
 Desenvolvo páginas e experiências web no frontend desde 2020 com foco nas tecnologias React, Next, Typescript, HTML semântico e CSS.
 Atualmente cursando a trilha de React do ***Ignite***, bootcamp da [@Rocketseat](https://www.rocketseat.com.br/), procurando me aprofundar cada vez mais na tecnologia. 
 
