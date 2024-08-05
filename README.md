@@ -12,7 +12,7 @@ Tenho conhecimento e experiência com React, Next, Javascript / Typescript e [No
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassio-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projetos em que trabalhei
+# Projetos em destaque
 - [Hub de promoções da Shell](https://promo.shell.com.br/)
 - [PokéTools](https://poketools.vercel.app/)
 - [Coffee Shop Challenge @Rocketseat](https://kazdev-coffeeshop.netlify.app/)
